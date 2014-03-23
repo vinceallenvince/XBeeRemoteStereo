@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <link rel='stylesheet' href='css/main.css' />
+  </head>
+  <body>
+    <label>Channel 1</label>
+    <input id='channel1' type='text' />
+
+    <label>Channel 2</label>
+    <input id='channel2' type='text' />
+
+    <script src='http://localhost:1337/socket.io/socket.io.js'></script>
+    <script type="text/javascript">
+
+      var socket = io.connect('http://localhost:1337');
+      var lastVal,
+          channel1 = document.getElementById('channel1'),
+          channel2 = document.getElementById('channel2');
+
+      socket.on('connected', function() {
+        console.log('connected');
+      });
+
+      socket.on('data', function(data) {
+        if (lastVal == 1) {
+          channel1.value = data;
+        } else if (lastVal == 2) {
+          channel2.value = data;
+        }
+        lastVal = data;
+      });
+
+    </script>
+
+  </body>
+</html>
