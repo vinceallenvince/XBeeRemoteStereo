@@ -50,10 +50,12 @@
       });
 
       socket.on('data', function(data) {
+
         if (lastVal == 1) {
-          attractorLeft.mass = Flora.Utils.map(data, 0, 3.3, 1000, 10000);
+          console.log(data);
+          attractorLeft.mass = Flora.Utils.map(data, 0, 6000, 1000, 10000);
         } else if (lastVal == 2) {
-          attractorRight.mass = Flora.Utils.map(data, 0, 3.3, 1000, 10000);
+          attractorRight.mass = Flora.Utils.map(data, 0, 6000, 1000, 10000);
         }
         lastVal = data;
       });
