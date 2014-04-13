@@ -16,7 +16,7 @@ const int redZone = 5;
 const int sampleWindow = 50; // Sample window width in mS (50 mS = 20Hz)
 unsigned int sample;
 
-const int myChannel = 1;
+const int myChannel = 2;
 const int micInput = 0;
  
 void setup() 

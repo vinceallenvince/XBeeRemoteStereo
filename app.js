@@ -8,7 +8,7 @@ var emitter = new EventEmitter();
 var SerialPort = serialport.SerialPort; // localize object constructor
 
 //var mySerialPort = '/dev/tty.usbmodem1411'; // Arduino connected via usb
-var mySerialPort = '/dev/tty.usbserial-A702LCUI'; // XBee
+var mySerialPort = '/dev/tty.usbserial-A702LE8L'; // XBee
 
 var sp = new SerialPort(mySerialPort, {
 	baudrate: 57600,
