@@ -13,6 +13,12 @@ https://www.inventables.com/technologies/standoff-threaded-nylon
 4 X Socket Head Cap Screw; item #: 25285-06 Inventables; $2.91
 https://www.inventables.com/technologies/socket-head-cap-screw
 
+1 X Transparent Dark Bronze Acrylic Sheet; item #: 24137-03; Inventables.com $5.10
+https://www.inventables.com/technologies/transparent-dark-bronze-acrylic-sheet--2
+
+1 X Transparent Grey Acrylic Sheet; item #: 24136-03; Inventables.com $5.10
+https://www.inventables.com/technologies/transparent-dark-bronze-acrylic-sheet--2
+
 4 X Machine screw S/S RPH MS 4-40 X 5/8; item #: 72487 Fastenal.com; $0.28
 http://www.fastenal.com/web/products/details/72487
 
