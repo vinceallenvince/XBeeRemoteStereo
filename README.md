@@ -10,7 +10,7 @@ https://www.inventables.com/technologies/standoff-threaded-nylon
 8 X Threaded F-F Nylon Standoff M3 x 6mm; item #: 30357-01 Inventables.com; $2.50
 https://www.inventables.com/technologies/standoff-threaded-nylon
 
-4 X Socket Head Cap Screw; item #: 25285-06 Inventables; $2.91
+4 X Socket Head Cap Screw Thread Size: M5, Length: 40mm, Pitch: 0.8mm; item #: 25285-06 Inventables; $2.91
 https://www.inventables.com/technologies/socket-head-cap-screw
 
 1 X Transparent Dark Bronze Acrylic Sheet; item #: 24137-03; Inventables.com $5.10
@@ -21,6 +21,12 @@ https://www.inventables.com/technologies/transparent-dark-bronze-acrylic-sheet--
 
 4 X Machine screw S/S RPH MS 4-40 X 5/8; item #: 72487 Fastenal.com; $0.28
 http://www.fastenal.com/web/products/details/72487
+
+2 X Machine screw 2-56 X 1/4"; item #: 72456 Fastenal.com; $0.28
+http://www.fastenal.com/web/products/details/72456
+
+2 X Small Pattern Hex Nut 2-56; item #: 0173911 Fastenal.com; $0.07
+https://www.fastenal.com/web/products/details/0173911
 
 8 X Machine Screw: #4-40, 1/2" Length, Phillips (25-pack); item #: 1962 Pololu.com; $0.99
 http://www.pololu.com/product/1962

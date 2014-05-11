@@ -23,7 +23,7 @@ sp.on('open', function () {
 });
 
 // host a single page
-connect(connect.static(__dirname + '/public')).listen(8000);
+connect(connect.static(__dirname + '/public')).listen(8080);
 
 // start web sockets
 io.sockets.on('connection', function(socket) {
