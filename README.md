@@ -10,7 +10,7 @@ The Arduino code analyzes the microphone signal and looks for a specific frequen
 
 You can also find [cutting plans](https://github.com/vinceallenvince/XBeeRemoteStereo/tree/master/enclosure) to laser cut the enclosure.
 
-![XBeeRemoteStereo](http://raw.githubusercontent.com/vinceallenvince/BLESensor/master/images/bluetooth-accel.jpg)
+![XBeeRemoteStereo](https://raw.githubusercontent.com/vinceallenvince/XBeeRemoteStereo/master/images/xbeemic.jpg)
 
 #### Hardware
 
