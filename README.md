@@ -59,5 +59,8 @@ https://www.sparkfun.com/products/8742
 1 X Arduino Uno - R3; item #: DEV-11021; Sparkfun.com; $29.95
 https://www.sparkfun.com/products/11021
 
+1 X Smart Power Base; smartpowerbase.com; $50.00
+http://www.smartpowerbase.com/buynow/smart-power-base
+
 4 X 3D Printed 29mm spacers
 
