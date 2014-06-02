@@ -49,7 +49,7 @@ void loop()
       fft_input(capture, bfly_buff);
       fft_execute(bfly_buff);
       fft_output(bfly_buff, spektrum);
-      level = spektrum[20] * 50; // instead of looping thru the spektrum (0 - 63); find 1 bin
+      level = spektrum[20] + spektrum[30] * 50; // instead of looping thru the spektrum (0 - 63); find 1 bin
       position = 0;
     }  
    
