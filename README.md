@@ -1,6 +1,16 @@
-## XBeeRemoteStereo
+# XBeeRemoteStereo
 
-Details coming soon.
+This repo contains code to send audio data from a wireless microphone to a web browser. There are three components involved.
+
+* [Arduino code](https://github.com/vinceallenvince/XBeeRemoteStereo/tree/master/Arduino)
+* [a NodeJS app](https://github.com/vinceallenvince/XBeeRemoteStereo)
+* [JS and HTML for the browser](https://github.com/vinceallenvince/XBeeRemoteStereo/tree/master/public)
+
+The Arduino code analyzes the microphone signal and looks for a specific frequency. It writes the magnitude of the frequency to the serial port which is sent wireless via XBee radios. The NodeJS app uses the [node-serialport](https://github.com/voodootikigod/node-serialport) node module to read the base XBee radio and forwards the data to the browser via [web sockets](http://socket.io).
+
+You can also find [cutting plans](https://github.com/vinceallenvince/XBeeRemoteStereo/tree/master/enclosure) to laser cut the enclosure.
+
+![XBeeRemoteStereo](http://raw.githubusercontent.com/vinceallenvince/BLESensor/master/images/bluetooth-accel.jpg)
 
 #### Hardware
 
